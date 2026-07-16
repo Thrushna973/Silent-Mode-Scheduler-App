@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SilentModeScheduler" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#00ADB5</item>
+        <item name="colorSecondary">#393E46</item>
+        <item name="android:statusBarColor">#121212</item>
+        <item name="android:windowBackground">#121212</item>
+    </style>
+</resources>

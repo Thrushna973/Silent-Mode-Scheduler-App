@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411754104181",
+    "project_id": "silentmodescheduler",
+    "storage_bucket": "silentmodescheduler.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411754104181:android:6d759ceb17997f25963f3c",
+        "android_client_info": {
+          "package_name": "com.example.silentmodescheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6yT3zsKfxc548At3cKYKsXCVm3ZN4tqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
